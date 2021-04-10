@@ -7,3 +7,4 @@ Stock BQ ROMs
  - Aquaris M8 (aquaris_m8, karin)
  - Aquaris M10FHD (freezerfhd)
  - Aquaris M10HD (freezerhd)
+ - Aquaris M10 4G
