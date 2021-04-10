@@ -1,7 +1,7 @@
 Stock BQ ROMs
 ==================
 
-### Here i will upload Stock ROMs of the BQ Devices we maintain that are powered by MTK
+### Here we'll upload Stock ROMs of the MTK BQ Devices that we maintain
  - Aquaris E4.5 (krillin)
  - Aquaris E5 (vegetahd)
  - Aquaris M8 (aquaris_m8, karin)
